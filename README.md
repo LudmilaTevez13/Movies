@@ -1,6 +1,6 @@
 # Movies
 ## Integrantes
-Gisel Arevalo
-Ludmila Tevez
-Alejandro Salinas, 47, San Miguel
-Cristian Sanguine
+Ludmila Tevez, 32, José León Suárez
+Gisel Arevalo,32,Salta Capital
+Alejandro Salinas
+Cristian Sanguine, 28, Zárate
