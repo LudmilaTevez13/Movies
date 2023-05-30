@@ -1,6 +1,6 @@
 # Movies
 ## Integrantes
 Gisel Arevalo
-Ludmila Tevez
+Ludmila Tevez, 32, José León Suárez
 Alejandro Salinas
 Cristian Sanguine
