@@ -2,5 +2,5 @@
 ## Integrantes
 Gisel Arevalo
 Ludmila Tevez
-Alejandro Salinas
+Alejandro Salinas, 47, San Miguel
 Cristian Sanguine
